@@ -1,31 +1,31 @@
 {
-  "_from": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
+  "_from": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
   "_id": "iobroker.videomatrix@0.0.2",
   "_inBundle": false,
   "_integrity": "sha512-PLbTydnDAovxjjlQUaMKlwlz6Jj15gI33lNVUGGPEgYQFim2bY/c4e4fkO09nmSjDwliotm5A9sjcaVtLQzc/Q==",
-  "_location": "/iobroker.videomatrix",
+  "_location": "/iobroker.videomatrix2022",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
-    "raw": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
-    "rawSpec": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
-    "saveSpec": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
-    "fetchSpec": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master"
+    "raw": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
+    "rawSpec": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
+    "saveSpec": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
+    "fetchSpec": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
+  "_resolved": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
   "_shasum": "bbace41fa9e3a42f71b141d26890ca1ce8d42678",
-  "_spec": "https://github.com/Andymann/ioBroker.videomatrix/tarball/master",
+  "_spec": "https://github.com/Andymann/ioBroker.videomatrix2022/tarball/master",
   "_where": "/",
   "author": {
     "name": "Andy",
     "email": "info@Andyland.info"
   },
   "bugs": {
-    "url": "https://github.com/Andymann/ioBroker.videomatrix/issues"
+    "url": "https://github.com/Andymann/ioBroker.videomatrix2022/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -53,7 +53,7 @@
     "sinon": "^7.3.1",
     "sinon-chai": "^3.3.0"
   },
-  "homepage": "https://github.com/Andymann/ioBroker.videomatrix",
+  "homepage": "https://github.com/Andymann/ioBroker.videomatrix2022",
   "keywords": [
     "Video",
     "BTouch",
@@ -62,10 +62,10 @@
   ],
   "license": "MIT",
   "main": "main.js",
-  "name": "iobroker.videomatrix",
+  "name": "iobroker.videomatrix2022",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andymann/ioBroker.videomatrix.git"
+    "url": "git+https://github.com/Andymann/ioBroker.videomatrix2022.git"
   },
   "scripts": {
     "lint": "npm run lint:js",

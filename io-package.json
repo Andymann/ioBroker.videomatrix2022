@@ -1,6 +1,6 @@
 {
 	"common": {
-		"name": "videomatrix",
+		"name": "videomatrix2022",
 		"version": "0.0.5f",
 		"news": {
 			"0.0.1": {
@@ -55,8 +55,8 @@
 		"main": "main.js",
 		"icon": "videomatrix.png",
 		"enabled": true,
-		"extIcon": "https://raw.githubusercontent.com/Andymann/ioBroker.videomatrix/master/admin/videomatrix.png",
-		"readme": "https://github.com/Andymann/ioBroker.videomatrix/blob/master/README.md",
+		"extIcon": "https://raw.githubusercontent.com/Andymann/ioBroker.videomatrix2022/master/admin/videomatrix.png",
+		"readme": "https://github.com/Andymann/ioBroker.videomatrix2022/blob/master/README.md",
 		"loglevel": "info",
 		"mode": "daemon",
 		"type": "multimedia",
